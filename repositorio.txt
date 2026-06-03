@@ -1,0 +1,7 @@
+echo "# Trabajos_computacion_Desire" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dessire23/Trabajos_computacion_Desire.git
+git push -u origin main
